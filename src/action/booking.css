@@ -1,0 +1,61 @@
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 60%;
+    border-radius: 5px;
+    left: 25%;
+    margin-top: 30px;
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  
+  img {
+    border-radius: 5px 5px 0 0;
+  }
+  
+  .container-l {
+    padding: 10px 16px;
+    text-align: left;
+    background-color:rgb(247, 177, 154);
+  }
+  .column {
+    
+  }
+  .button {
+   
+    padding: 15px;
+    
+    display: inline-block;
+    font-size: 16px;
+    margin: 2px 1px;
+    margin-left: 80%;
+    cursor: pointer;
+    width:auto;
+    
+    
+  }
+  .image{
+      text-align: left;
+  }
+
+  .heading{
+      text-align: center;
+      margin-top: 50px;
+      margin-bottom: 50px;
+  }
+
+  /* input[type=text] {
+    width: 30%;
+    padding: 15px 22px;
+    margin-left: 30%;
+    box-sizing: border-box;  
+  } */
+
+.search{
+  width: 50%;
+  height: 50px;
+  margin-left: 30%;
+
+}
